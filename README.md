@@ -1,54 +1,46 @@
-# Machine Learning (Concepts + Codes)
+# Machine Learning Concepts & Implementations (Python)
 
-This repository contains **Machine Learning important concepts and Python codes** based on the syllabus.
+A collection of **Machine Learning core concepts and Python implementations**.  
+This repository is created for learning, practice, and revision of important ML algorithms with clean code and examples.
 
-## 📌 Syllabus Covered
+## ✨ What’s Included
+- **Supervised Learning**
+  - Multiple Linear Regression
+  - K-Nearest Neighbors (KNN)
+  - Logistic Regression
+  - Naïve Bayes Classifier
+  - Decision Trees
+  - Support Vector Machines (SVM)
 
-### UNIT I: Introduction
-- Introduction to Machine Learning
-- Types of Machine Learning (Supervised / Unsupervised)
-- Curse of Dimensionality
-- Overfitting & Underfitting
-- Model Selection
-- Error Analysis & Validation
-- Parametric vs Non-Parametric Models
+- **Unsupervised Learning**
+  - K-Means Clustering
+  - K-Medians Clustering
+  - Mean Shift Clustering
+  - Expectation Maximization (EM)
+  - Bi-Clustering / Multi-view clustering (concept-based)
 
-### UNIT II: Regression and Classification
-- Multiple Linear Regression
-- KNN (K-Nearest Neighbors)
-- Logistic Regression
-- Naïve Bayes Classifier
-- Decision Trees
-- Support Vector Machines (SVM)
-- Dimensionality Reduction
-- PCA (Principal Component Analysis)
+- **Dimensionality Reduction**
+  - Principal Component Analysis (PCA)
 
-### UNIT III: Clustering
-- Clustering Approaches
-- Mean Shift Clustering
-- Bi-clustering
-- Multi-view Clustering
-- K-Means Clustering
-- K-Medians Clustering
-- Expectation Maximization (EM)
+- **Neural Networks**
+  - Perceptron
+  - Feed Forward Networks
+  - Multilayer Networks
+  - Backpropagation
 
-### UNIT IV: Neural Networks
-- Neural Networks Basics
-- Biological Motivation
-- Perceptron
-- Feed Forward Networks
-- Multilayer Networks
-- Backpropagation Algorithm
-- Hidden Layer Representation
-- Applications of Neural Networks
+- **Core ML Concepts**
+  - Overfitting vs Underfitting
+  - Curse of Dimensionality
+  - Model Selection & Validation
+  - Error Analysis
+  - Parametric vs Non-Parametric Models
 
-### UNIT V: Applications and Tools
-- Linear Models for Regression
-- Reinforcement Learning (Basics)
-- Machine Learning Tools
-- Engineering Applications
+- **Applications & Tools**
+  - Linear models for regression
+  - Reinforcement Learning (basics)
+  - ML tools and engineering applications
 
-## 🛠️ Tools & Libraries
+## 🛠 Tech Stack
 - Python
 - NumPy
 - Pandas
@@ -56,7 +48,7 @@ This repository contains **Machine Learning important concepts and Python codes*
 - Scikit-learn
 - Jupyter Notebook
 
-## ▶️ How to Run
-Run a Python file:
+## 🚀 How to Run
+### Run Python scripts
 ```bash
 python filename.py
