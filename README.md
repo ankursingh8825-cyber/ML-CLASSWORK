@@ -71,8 +71,8 @@ python filename.py
 
 
 ## 📬 Author
-**Anurag Tiwari**  
-🎓 Machine Learning Learner  
+**Ankur Singh**  
+🎓 Data Scientist  
 
 ---
 ⭐ Support
